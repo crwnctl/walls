@@ -20,14 +20,8 @@ Final wallpapers live in:
 
 ## Random sample showcase
 
-- `wallpapers/a_black_and_white_image_of_a_man_with_arms_and_arms.jpeg`
-- `wallpapers/a_snake_with_flowers_and_leaves.jpg`
-- `wallpapers/a_flower_on_a_black_background.png`
-- `wallpapers/a_woman_standing_on_a_path_with_glowing_lights.png`
-- `wallpapers/a_blue_and_pink_swirls_on_a_black_background.png`
-- `wallpapers/a_close_up_of_a_flower_01.png`
-- `wallpapers/a_cartoon_of_a_man_flying_through_the_air.jpg`
-- `wallpapers/a_pixel_art_of_a_room_with_people_and_a_room_with_a_black_background.png`
+![a_purple_and_orange_mountain_range](wallpapers/a_purple_and_orange_mountain_range.png)
+
 
 ## How the script works
 
