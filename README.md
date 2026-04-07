@@ -22,14 +22,13 @@ Final wallpapers live in:
 
 ![a_purple_and_orange_mountain_range](wallpapers/a_purple_and_orange_mountain_range.png)
 
-
 ## How the script works
 
 - Scans the wallpaper directory for image files (`jpg`, `jpeg`, `png`, `webp`)
 - Starts `swww-daemon` if it is not already running
 - Randomly selects one wallpaper
 - Saves the selected wallpaper path to:
-	`~/.cache/current_manga_wallpaper`
+`~/.cache/current_manga_wallpaper`
 - Applies the wallpaper using `swww img` with a transition animation
 
 ## Hyprland integration
