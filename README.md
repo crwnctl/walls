@@ -22,7 +22,7 @@ Final wallpapers live in:
 ## Random sample showcase
 
 ![a_purple_and_orange_mountain_range](wallpapers/a_purple_and_orange_mountain_range.png)
-![a blue and white drawing of a dragon](wallpapers/a_blue_dragon_with_a_banner.png)
+![a blue and white drawing of a dragon](wallpapers/a_blue_dragon_with_a_banner.jpg)
 ![ramen](wallpapers/a_cartoon_of_a_bowl_of_ramen_with_two_monsters_fighting.png)
 
 ## How the script works
